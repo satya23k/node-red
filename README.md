@@ -1,4 +1,4 @@
-# Node-RED mod by satya.ko
+# Node-RED
 
 http://nodered.org
 
